@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com Back-end
-- 🌱 Estudando PHP/Laravel
+- 🌱 Estudando PHP e Laravel
 
 <div align="center">
   <a href="https://github.com/LuanBarreto">
