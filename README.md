@@ -1,7 +1,7 @@
 ### Olá eu sou o Luan 👋
 
 
-- 🔭 Atualmente na Leroy Merlin com Back-end.
+- 🔭 Atualmente trabalho na Leroy Merlin com Back-end.
 - 🌱 Estudando PHP, Laravel e Docker.
 
 <div>
